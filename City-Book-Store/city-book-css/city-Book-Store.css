@@ -1,8 +1,7 @@
 .mainCont {
-  /* background-image: url("/City-Book-Store/city-book-images/Book-Store-2.jpg"); */
+  background-image: url("/City-Book-Store/city-book-images/Book-Store-2.jpg");
   background-size: 1380px 900px;
   background-repeat: no-repeat;
-  background-color: cadetblue;
 }
 
 #book1 {
